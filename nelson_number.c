@@ -1,4 +1,5 @@
 /*nelson number*/
+#include<stdio.h>
 main()
 {  
     
