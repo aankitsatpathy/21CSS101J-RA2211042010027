@@ -1,4 +1,5 @@
 /*karpekar number*/
+#include<stdio.h>
 main()
 {  
     
