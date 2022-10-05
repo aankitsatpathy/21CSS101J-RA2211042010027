@@ -1,4 +1,5 @@
 /*mersene number*/
+#include<stdio.h>
 main()
 {  
     
