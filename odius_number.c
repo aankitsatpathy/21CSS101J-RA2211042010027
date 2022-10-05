@@ -1,4 +1,5 @@
 /*odius number*/
+#include<stdio.h>
 main()
 {  
     
