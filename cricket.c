@@ -3,6 +3,7 @@
 
 main()
 {
+    printf("RA2211042010027\n");
     printf("enter average runs, average wickets");
     int r,w;
     scanf("%d %d",&r,&w);
