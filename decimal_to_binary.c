@@ -1,7 +1,7 @@
 /*decimal to binary*/
 main()
 {  
-    
+    printf("RA2211042010027\n");
     int a[10],n;  
     printf("Enter the number");
     scanf("%d",&n);
