@@ -3,6 +3,7 @@
 #include <math.h>
 main()
 {
+    printf("RA2211042010027\n");
     float pa/*principal amount*/,t/*time*/;
     float r,ci,si;
     printf("enter a principal,rate,time\n");
