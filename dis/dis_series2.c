@@ -2,7 +2,7 @@
 #include<stdio.h>
 main()
 {  
-    
+    printf("RA2211042010027\n");
     int n,a=1;
     printf("Enter the number");
     scanf("%d",&n);
