@@ -2,6 +2,7 @@
 #include<stdio.h>
 main()
 { 
+    printf("RA2211042010027\n");
     for(int a=1;a<6;a++)
     {
         for(int b=1;b<=a;b++)
