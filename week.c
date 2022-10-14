@@ -3,6 +3,7 @@
 
 main()
 {
+    printf("RA2211042010027\n");
     printf("enter day number");
     int a;
     scanf("%d",&a);
