@@ -3,6 +3,7 @@
 
 int main()
 {
+    printf("RA2211042010027\n");
     int n;
     printf("enter a number of terms");
     scanf("%d",&n);
