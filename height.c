@@ -3,6 +3,7 @@
 
 main()
 {
+  printf("RA2211042010027\n");
   float sum=0,height[10];
   printf("enter height of 10 students");
   for(int a=0;a<10;a++)
