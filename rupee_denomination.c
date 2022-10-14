@@ -3,6 +3,7 @@
 
 int main()
 {
+    printf("RA2211042010027\n");
     printf("enter a rupees");
     int o,t,f,te,fi,h,fh,tt,th,tw;
     scanf("%d",&o);
