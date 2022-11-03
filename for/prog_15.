@@ -7,7 +7,7 @@ int main()
     int n1,s=0;
     scanf("%d",&n1);
     for(int a=1;a<n1;a++)
-    if(n1%s==0)
+    if(n1%a==0)
     s+=a;
     printf("%d",s);
 }
