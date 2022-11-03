@@ -9,5 +9,5 @@ int main()
     for(int a=n1;;a++)
         if(a%n1==0&&a%n2==0){
         h=a;break;}
-    printf("HCF = %d\n",h);
+    printf("lcm = %d\n",h);
 }
