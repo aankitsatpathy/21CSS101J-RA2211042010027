@@ -10,5 +10,5 @@ int main()
     if(a%2==0){c++;
     s+=a%10;}
     float sc=s/c;
-    printf("Sum of  digits = %f",sc);
+    printf("Average of even digits = %f",sc);
 }
