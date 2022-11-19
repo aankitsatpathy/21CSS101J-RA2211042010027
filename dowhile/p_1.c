@@ -7,7 +7,7 @@ void main()
     int n;
     scanf("%d",&n);
      int s=n;  
-    while(true)
+    do
     {
         n=s;
         s=0;
@@ -15,11 +15,10 @@ void main()
         {
             s+=(n%10);
         }
-        if(s<10)
-        break;
-    }  
-    if(s==1)
-    printf("Magic Number");
+        
+    }  while(s>10)
+   if(s==1)
+       printf("Magic Number");
     else
-    printf("Not Magic Number");
+        printf("Not Magic Number");
 }
