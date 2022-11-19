@@ -16,7 +16,7 @@ void main()
             s+=(n%10);
         }
         
-    }  while(s>10)
+    }  while(s>10);
    if(s==1)
        printf("Magic Number");
     else
