@@ -3,6 +3,7 @@
 
 int main()
 {
+    printf("RA2211042010027\n"); 
     printf("Enter Bid(Alice,Bob,Charlie) : ");
     int a,b,c;
     scanf("%d %d %d",&a,&b,&c);
