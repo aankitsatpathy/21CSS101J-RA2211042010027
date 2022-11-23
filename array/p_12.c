@@ -1,6 +1,7 @@
 #include <stdio.h>
 int check(int a[],int n)
 {
+    printf("RA2211042010027\n"); 
     int d=0;
     for(int i=0;i<n;i++)
     {
