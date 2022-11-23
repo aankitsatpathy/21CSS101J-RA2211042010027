@@ -2,6 +2,7 @@
 
 int main()
 {
+    printf("RA2211042010027\n"); 
     char fname[100],lname[100];
     printf("Enter Fname and Lname");
     puts(fname);
