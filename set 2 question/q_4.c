@@ -3,6 +3,7 @@
 
 int main()
 {
+    printf("RA2211042010027\n"); 
     int n,x,y;
     printf("Enter N,X,Y : ");
     scanf("%d %d %d",&n,&x,&y);
