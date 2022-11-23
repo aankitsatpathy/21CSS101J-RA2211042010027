@@ -3,7 +3,7 @@
 int main()
 {
     int X, Y;
-
+printf("RA2211042010027\n"); 
     scanf("%d %d", &X, &Y);
     int *ptr1 = &X;
     int *ptr2 = &Y;
