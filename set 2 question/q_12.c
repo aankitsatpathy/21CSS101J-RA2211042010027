@@ -7,6 +7,7 @@ int v(char a)
 }
 int main()
 {
+    printf("RA2211042010027\n"); 
     int a;
     char f[100];
     printf("Enter string : ");
