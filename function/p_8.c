@@ -1,0 +1,20 @@
+#include <stdio.h>
+void s(int a)
+{
+    if(a%2==0)
+    {
+        printf("Yes");
+    }
+    else
+    {
+        printf("No");
+    }
+}
+void main()
+{
+    printf("RA2211042010027\n"); 
+    int b=0;
+    printf("Enter number of chocolate : ");
+    scanf("%d",&b);
+    s(b);
+}
