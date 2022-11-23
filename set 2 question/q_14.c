@@ -2,6 +2,7 @@
 
 int main()
 {
+    printf("RA2211042010027\n"); 
     int a=0;
     char s[500];
     printf("Enter a string : ");
