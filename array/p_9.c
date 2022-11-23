@@ -2,6 +2,7 @@
 void main()
 {
     int n=0;
+    printf("RA2211042010027\n"); 
     printf("Enter number of elements : ");
     scanf("%d",&n);
     int arr[n];
