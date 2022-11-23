@@ -2,6 +2,7 @@
 
 int main()
 {
+    printf("RA2211042010027\n"); 
     //declaring the variables
     int N, M;
     //finding the number of friends
