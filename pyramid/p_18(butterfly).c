@@ -37,7 +37,7 @@ int main() {
         {
             printf(" ");
         }
-        for(int c=5;c>=(5-a);c--)
+        for(int c=5;c>(5-a);c--)
         {
             printf("h");
         }
